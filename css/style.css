@@ -1,0 +1,26 @@
+body{
+    background-color: #eeeeee;
+}
+.person-template{
+   /* display:none; */
+   visibility: hidden;
+}
+
+div {
+    float: left;
+    height: 250px;
+    margin: 2em;
+    width: 250px;
+  }
+  
+  main {
+    overflow:hidden;
+  }
+  div {
+    border: 1px solid #111;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
